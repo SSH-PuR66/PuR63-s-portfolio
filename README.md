@@ -172,13 +172,6 @@ Repository: <a href="https://github.com/SSH-PuR66">View on GitHub</a>
 
 ## Work Experience
 
-### Splashdown Beach — Fishkill, NY  
-May 2023 – September 2023
-
-- Worked in a fast-paced environment focused on safety and customer satisfaction
-- Collaborated with team members to support high-volume guest interactions
-- Developed communication, teamwork, and responsibility in a public-facing role
-
 ### Kohl’s — Wappingers Falls, NY  
 November 2024 – January 2025
 
