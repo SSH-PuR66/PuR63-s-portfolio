@@ -100,9 +100,13 @@ Expected Graduation: Mid July 2026
 
 ## Certifications
 
+
 <div>
-  <img src="https://img.shields.io/badge/-Cisco_Certified_in_Cybersecurity-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-(ISC)²_Candidate-00AEEF?&style=for-the-badge&logoColor=white" />
+  <a href="https://www.credly.com/users/sergio-rodriguez.a734c1c1">
+    <img src="https://img.shields.io/badge/-Credly_Profile-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/-Cisco_Certified_in_Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2_Candidate-00AEEF?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Blue_Team_Junior_Analyst-0052CC?&style=for-the-badge&logoColor=white" />
 </div>
 
