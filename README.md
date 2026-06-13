@@ -152,7 +152,7 @@ Built a full-stack web application that tracks business licenses and permits whi
 - Created reminder alerts for 30, 7, and 1 day before expiration
 - Used cron-secured task endpoints for automated email reminders
 
-Repository: <a href="https://github.com/SSH-PuR66">View on GitHub</a>
+Repository: <a href="https://github.com/SSH-PuR66/LicenseLoop">View on GitHub</a>
 
 ### CivicPulse – Open-Government Data Dashboard
 
@@ -168,7 +168,7 @@ Developed an open-government data dashboard that makes U.S. Census Bureau statis
 - Built interactive frontend data visualizations with Chart.js
 - Added accessibility-focused features including ARIA live regions and skip-navigation links
 
-Repository: <a href="https://github.com/SSH-PuR66">View on GitHub</a>
+Repository: <a href="https://github.com/SSH-PuR66/CivicPulse">View on GitHub</a>
 
 ## Work Experience
 
